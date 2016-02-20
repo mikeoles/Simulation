@@ -1,0 +1,10 @@
+This program is run from the command line.
+
+
+Choose the number based on which generator you would like to use. 
+
+Choose how many numbers should be generated.(All random numbers written to randoms.txt file)
+Choose a test to run. (If Auto Correlation chose l value)
+
+Results are printed to command line.
+
